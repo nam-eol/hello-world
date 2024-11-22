@@ -1,2 +1,2 @@
-# hello-world
-osp class
+# Studying Python
+
